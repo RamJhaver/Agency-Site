@@ -1,3 +1,5 @@
+This project uses Bootstrap (CSS/JS) and Bootstrap Icons, both licensed under the MIT License.
+
 Bootstrap CSS and JS License:
 The MIT License (MIT)
 
